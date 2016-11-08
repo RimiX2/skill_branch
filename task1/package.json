@@ -1,0 +1,17 @@
+{
+  "name": "skb-start",
+  "version": "1.0.0",
+  "description": "skill-branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "skb"
+  ],
+  "author": "Rim Ganiev",
+  "license": "ISC",
+  "dependencies": {
+    "skb": "^1.0.0"
+  }
+}
